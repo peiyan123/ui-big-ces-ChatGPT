@@ -1,0 +1,8 @@
+{
+  "vlm-endpoint": "vdud-blip2-flan-t5-xl-endpoint20240106-153018",
+  "ob-endpoint": "vdud-yolos-base20240106-132804",
+  "prompts_input": "base on the upper information, please answer the question",
+  "answer_path": "summary",
+  "embedding_endpoint": "text-embedding-all-MiniLM-L6-v2-endpoint-20240106-143954",
+  "threshold": "0.45"
+}
